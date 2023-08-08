@@ -22,8 +22,8 @@ nav ul li a:hover{
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url(./images/background.JPG);
-    background-size:contain;
+    background-image: url(./images/we.jpg);
+    background-size:cover;
     background-position: center;  
 }
 nav{
