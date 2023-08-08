@@ -90,6 +90,7 @@ h4{
 }
 .about-text{
     width: 550px;
+    background-color: transparent;
 }
 .main{
     width: 1130px;
@@ -107,13 +108,14 @@ h4{
 }
 .about-text p{
     background: #000814;
-    color: #ff0a54;
+    color:#040404;
     letter-spacing: 1px;
     line-height: 28px;
     font-size: 18px;
     margin-bottom: 45px;
     justify-content: right;
     padding-left: 20px;
+    background-color:#e5989b;
 }
 button{
     background-color:#f9004d;
