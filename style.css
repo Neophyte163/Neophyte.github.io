@@ -51,6 +51,7 @@ nav ul li a:hover{
     text-decoration: none;
     font-weight: bold;
    transition: transform .4s;
+   padding: 10px 25px; 
 }
 .btn:hover{
     color:#f9004d;
